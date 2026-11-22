@@ -1103,7 +1103,7 @@ Merged from asked rounds and the most-asked list. Duplicates removed. No answers
 
 ---
 
-## 19. Full-Stack Cross-Cutting (added for 8 YOE)
+## 19. Full-Stack Cross-Cutting
 
 1. How do you split work between Angular and Spring Boot so contracts stay stable?
 2. How do you version BFF vs public API vs internal events?
